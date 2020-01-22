@@ -9,11 +9,4 @@ end
 
 def print_first_directors_movie_titles
   directors_database
-  row = 0 
-  while row < nds.count do 
-    new = []
-    element = 0 
-    while element < nds[row].count do 
-      
-    
 end
