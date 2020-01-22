@@ -8,13 +8,6 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  directors_database
-  row = 0 
-  while row < nds.count do 
-    new = []
-    element = 0 
-    while element < nds[row].count do 
-      if nds[row][element][:dirname] == "Spielburg"
-        new << nds[row][element][]
+ 
     
 end
